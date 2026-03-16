@@ -1,2 +1,2 @@
 # Zmywarki
-*** Wojtek zmywarka
+## Wojtek zmywarka

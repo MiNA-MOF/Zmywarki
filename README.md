@@ -9,3 +9,5 @@ wojtek zamknij sie
 próba 67
 
 proba 68 czy dziala GH -> Jira
+
+czy trzeba dawac key do smart commita za kazdym razem

@@ -5,3 +5,5 @@ Wojtek rozladowuje zmywarke po raz drugi
 
 
 wojtek zamknij sie
+
+próba 67

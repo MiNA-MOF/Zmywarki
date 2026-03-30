@@ -1,0 +1,38 @@
+= Nazwa Projektu: Dokumentacja
+Autor Imię <autor@example.com>
+v1.0, 2026-03-30
+:toc: left
+:icons: font
+
+== 🚀 O projekcie
+To jest projekt bota napisanego w AsciiDoc. Format ten pozwala na więcej niż zwykły Markdown.
+
+TIP: Używaj AsciiDoc, jeśli Twoja dokumentacja ma więcej niż 5 stron.
+
+== 🛠 Instalacja
+Aby zainstalować projekt, wykonaj poniższe kroki:
+
+[source,bash]
+----
+git clone https://github.com/user/repo.git
+npm install
+----
+
+== 📋 Funkcje
+* Automatyczne powiadomienia
+* Wsparcie dla Jira
+* Wycinanie "szumu" z GitHuba
+
+[IMPORTANT]
+====
+Pamiętaj o skonfigurowaniu zmiennych środowiskowych w pliku `.env`!
+====
+
+== 📊 Statystyki użycia
+|===
+| Funkcja | Status | Priorytet
+
+| Obsługa PR | Gotowe | Wysoki
+| Obsługa Issues | W trakcie | Średni
+| Integracja Slack | Planowane | Niski
+|===

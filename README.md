@@ -10,3 +10,5 @@ próba 67
 
 ladowanie pralki...
 zmiana w teams
+usunac
+

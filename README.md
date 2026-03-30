@@ -9,3 +9,4 @@ wojtek zamknij sie
 próba 67
 
 ladowanie pralki...
+zmiana w teams
